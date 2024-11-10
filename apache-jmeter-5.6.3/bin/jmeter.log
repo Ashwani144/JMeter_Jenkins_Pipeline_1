@@ -1,0 +1,43 @@
+2024-11-09 16:03:13,626 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2024-11-09 16:03:13,664 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-11-09 16:03:13,664 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-11-09 16:03:13,702 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-11-09 16:03:13,702 INFO o.a.j.JMeter: Version 5.6.3
+2024-11-09 16:03:13,702 INFO o.a.j.JMeter: java.version=21.0.5
+2024-11-09 16:03:13,702 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-11-09 16:03:13,702 INFO o.a.j.JMeter: os.name=Windows Server 2022
+2024-11-09 16:03:13,702 INFO o.a.j.JMeter: os.arch=amd64
+2024-11-09 16:03:13,702 INFO o.a.j.JMeter: os.version=10.0
+2024-11-09 16:03:13,703 INFO o.a.j.JMeter: file.encoding=UTF-8
+2024-11-09 16:03:13,703 INFO o.a.j.JMeter: java.awt.headless=null
+2024-11-09 16:03:13,704 INFO o.a.j.JMeter: Max memory     =1073741824
+2024-11-09 16:03:13,704 INFO o.a.j.JMeter: Available Processors =2
+2024-11-09 16:03:13,721 INFO o.a.j.JMeter: Default Locale=English (EN)
+2024-11-09 16:03:13,723 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2024-11-09 16:03:13,723 INFO o.a.j.JMeter: JMeterHome=C:\Ashwani\apache-jmeter-5.6.3
+2024-11-09 16:03:13,723 INFO o.a.j.JMeter: user.dir  =C:\Ashwani\apache-jmeter-5.6.3\bin
+2024-11-09 16:03:13,723 INFO o.a.j.JMeter: PWD       =C:\Ashwani\apache-jmeter-5.6.3\bin
+2024-11-09 16:03:13,731 INFO o.a.j.JMeter: IP: 172.31.26.212 Name: EC2AMAZ-6IJ31EP FullName: 172.31.26.212
+2024-11-09 16:03:13,757 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-11-09 16:03:14,509 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsClassicLookAndFeel
+2024-11-09 16:03:29,114 INFO o.a.j.s.FileServer: Default base='C:\Ashwani\apache-jmeter-5.6.3\bin'
+2024-11-09 16:03:29,120 INFO o.a.j.g.a.Load: Loading file: C:\Ashwani\apache-jmeter-5.6.3\bin\Jenkins_JMeter_V011.jmx
+2024-11-09 16:03:29,121 INFO o.a.j.s.FileServer: Set new base='C:\Ashwani\apache-jmeter-5.6.3\bin'
+2024-11-09 16:03:29,435 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-11-09 16:03:29,487 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-11-09 16:03:29,488 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-11-09 16:03:29,492 INFO o.a.j.s.SaveService: Loading file: C:\Ashwani\apache-jmeter-5.6.3\bin\Jenkins_JMeter_V011.jmx
+2024-11-09 16:03:29,521 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2024-11-09 16:03:29,543 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-11-09 16:03:29,543 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-11-09 16:03:29,543 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-11-09 16:03:29,543 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-11-09 16:03:29,543 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-11-09 16:03:29,543 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-11-09 16:03:30,006 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2024-11-09 16:03:30,007 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Ashwani\apache-jmeter-5.6.3\bin\proxyserver.jks
+2024-11-09 16:03:30,635 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-11-09 16:03:30,635 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-11-09 16:03:30,635 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-11-09 16:03:30,636 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-11-09 16:03:31,002 INFO o.a.j.s.FileServer: Set new base='C:\Ashwani\apache-jmeter-5.6.3\bin'

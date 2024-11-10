@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1731168539690,2364,TC100_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1603,714,1,1,null,0,115,1617
+1731168539799,2364,TC100_Launch_R01,200,OK,Thread Group 1-1,text,true,,1603,714,1,1,https://www.webloadmpstore.com/,2363,0,1617
+1731168542170,425,TC200_Login,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,2779,1856,1,1,null,0,14,0
+1731168542171,425,TC200_Login_R01,200,OK,Thread Group 1-1,text,true,,2779,1856,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,209,0,0
+1731168542171,209,TC200_Login_R01-0,302,Moved Temporarily,Thread Group 1-1,text,true,,238,966,1,1,https://www.webloadmpstore.com/login.php,209,0,0
+1731168542383,213,TC200_Login_R01-1,200,OK,Thread Group 1-1,text,true,,2541,890,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,213,0,0
+1731168542610,197,TC300_ClickToAutomationKey,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,1218,817,1,1,null,0,9,0
+1731168542612,197,TC300_ClickToAutomationKey_R01,200,OK,Thread Group 1-1,text,true,,1218,817,1,1,https://www.webloadmpstore.com/product_detail.php?title=Automation+is+key,197,0,0
+1731168542860,616,TC100_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1603,714,1,1,null,0,62,411
+1731168542917,616,TC100_Launch_R01,200,OK,Thread Group 1-2,text,true,,1603,714,1,1,https://www.webloadmpstore.com/,616,0,411
+1731168543539,406,TC200_Login,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,2779,1856,1,1,null,0,32,0
+1731168543540,406,TC200_Login_R01,200,OK,Thread Group 1-2,text,true,,2779,1856,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,195,0,0
+1731168543540,195,TC200_Login_R01-0,302,Moved Temporarily,Thread Group 1-2,text,true,,238,966,1,1,https://www.webloadmpstore.com/login.php,195,0,0
+1731168543736,210,TC200_Login_R01-1,200,OK,Thread Group 1-2,text,true,,2541,890,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,210,0,0
+1731168543978,189,TC300_ClickToAutomationKey,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,1218,817,1,1,null,0,2,0
+1731168543979,189,TC300_ClickToAutomationKey_R01,200,OK,Thread Group 1-2,text,true,,1218,817,1,1,https://www.webloadmpstore.com/product_detail.php?title=Automation+is+key,189,0,0
+1731168545674,604,TC100_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1603,714,1,1,null,0,4,395
+1731168545675,604,TC100_Launch_R01,200,OK,Thread Group 1-3,text,true,,1603,714,1,1,https://www.webloadmpstore.com/,604,0,395
+1731168546288,398,TC200_Login,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,2779,1856,1,1,null,0,2,0
+1731168546289,398,TC200_Login_R01,200,OK,Thread Group 1-3,text,true,,2779,1856,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,195,0,0
+1731168546289,195,TC200_Login_R01-0,302,Moved Temporarily,Thread Group 1-3,text,true,,238,966,1,1,https://www.webloadmpstore.com/login.php,195,0,0
+1731168546485,202,TC200_Login_R01-1,200,OK,Thread Group 1-3,text,true,,2541,890,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,202,0,0
+1731168546697,199,TC300_ClickToAutomationKey,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,1218,817,1,1,null,0,2,0
+1731168546699,199,TC300_ClickToAutomationKey_R01,200,OK,Thread Group 1-3,text,true,,1218,817,1,1,https://www.webloadmpstore.com/product_detail.php?title=Automation+is+key,199,0,0
+1731168548667,557,TC100_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1603,714,1,1,null,0,4,356
+1731168548668,557,TC100_Launch_R01,200,OK,Thread Group 1-4,text,true,,1603,714,1,1,https://www.webloadmpstore.com/,557,0,356
+1731168549228,378,TC200_Login,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,2779,1856,1,1,null,0,1,0
+1731168549228,378,TC200_Login_R01,200,OK,Thread Group 1-4,text,true,,2779,1856,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,194,0,0
+1731168549228,194,TC200_Login_R01-0,302,Moved Temporarily,Thread Group 1-4,text,true,,238,966,1,1,https://www.webloadmpstore.com/login.php,194,0,0
+1731168549423,183,TC200_Login_R01-1,200,OK,Thread Group 1-4,text,true,,2541,890,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,183,0,0
+1731168549607,183,TC300_ClickToAutomationKey,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,1218,817,1,1,null,0,5,0
+1731168549608,183,TC300_ClickToAutomationKey_R01,200,OK,Thread Group 1-4,text,true,,1218,817,1,1,https://www.webloadmpstore.com/product_detail.php?title=Automation+is+key,182,0,0
+1731168551669,592,TC100_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1603,714,1,1,null,0,2,386
+1731168551670,592,TC100_Launch_R01,200,OK,Thread Group 1-5,text,true,,1603,714,1,1,https://www.webloadmpstore.com/,592,0,386
+1731168552264,376,TC200_Login,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,2779,1856,1,1,null,0,0,0
+1731168552264,376,TC200_Login_R01,200,OK,Thread Group 1-5,text,true,,2779,1856,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,191,0,0
+1731168552264,191,TC200_Login_R01-0,302,Moved Temporarily,Thread Group 1-5,text,true,,238,966,1,1,https://www.webloadmpstore.com/login.php,191,0,0
+1731168552455,185,TC200_Login_R01-1,200,OK,Thread Group 1-5,text,true,,2541,890,1,1,https://www.webloadmpstore.com/product_list.php?login=ok,184,0,0
+1731168552643,183,TC300_ClickToAutomationKey,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,1218,817,1,1,null,0,2,0
+1731168552645,183,TC300_ClickToAutomationKey_R01,200,OK,Thread Group 1-5,text,true,,1218,817,1,1,https://www.webloadmpstore.com/product_detail.php?title=Automation+is+key,183,0,0
